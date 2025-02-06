@@ -59,7 +59,7 @@ function storeFronters(){
 function makeFronterElements(imbed) {
     for (let i = 0; i < Object.keys(fronters).length; i++) {
 
-        imbed.innerHTML += '<div class="mcont" "&' + frontMembers[i].content.name + '"><img class="favi" src="' + frontMembers[i].content.avatarUrl + '"><div class="fname">' + frontMembers[i].content.name + '</div><div class=fpro>' + frontMembers[i].content.pronouns + '</div></div>'
+        imbed.innerHTML += '<div class="mcont" "&' + frontMembers[i].content.name + '"><img class="favi" src="' + frontMembers[i].content.avatarUrl + '"><div class="fname">' + frontMembers[i].content.name + '</div><div class=fpro>' + frontMembers[i].content.pronouns + '</div><div class=fpro>' + frontMembers[i].content.description + '</div>'
         console.log(i)
         console.log(imbed.innerHTML)
     }
