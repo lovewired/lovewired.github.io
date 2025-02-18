@@ -4,7 +4,7 @@
 var fronters;
 var frontMembers = [];
 var imbed;
-var token = "0AMaZrQii2XWeOvn+I7xMEVRvD21Uipti33pgNPfqZWJ+rjrk3YoJXBe1rDjwX34" //replace this with a systems token. has to have read permissions enabled. this is the only thing you need to modify
+var token = "jdGngkmInxFMzN+ijMbr60aBkQtxuJ764a/XbuSdGNav8R+4M0fgtVXsLdW42EQT" //replace this with a systems token. has to have read permissions enabled. this is the only thing you need to modify
 
 function getFronters(){
     var frontCheck = new XMLHttpRequest;
