@@ -8,6 +8,8 @@ body {
   margin: auto;
 }
 
+.mcont {float:left;}
+
 img {
   max-width: 100%;
 }
