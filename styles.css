@@ -13,6 +13,9 @@ body {
 .fpro {margin-bottom: 10px; color: grey;}
 .mcont:nth-of-type(1) {visibility: hidden;overflow: hidden; width:1px!important;}
 
+.flag {clear: both; width: 35%;}
+.left {float: left;}
+.right {float: right;}
 img {
   max-width: 100%;
 }
