@@ -16,7 +16,7 @@ body {
 .fpro {margin-bottom: 10px; color: grey;}
 .mcont:nth-of-type(1) {visibility: hidden;overflow: hidden; width:1px!important;}
 
-.flag-div {margin-bottom: 15px; clear:both; text-align: left;
+.flag-div {margin-top: 20px; clear:both; text-align: justify;
   line-height: 200px;
   line-height: 1.5;
   display: inline-block;
