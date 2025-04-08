@@ -1,4 +1,10 @@
 body {
   text-align: center;
+  font-family: arial;
+}
+
+.mcont {
+  width: 900px;
+  margin: auto;
 }
 
