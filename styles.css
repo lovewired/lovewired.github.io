@@ -10,7 +10,7 @@ body {
 
 .mcont {float:left;}
 
-##div.mcont:nth-of-type(1) {visibility: collapse;}
+.mcont:nth-of-type(1) {visibility: collapse;}
 
 img {
   max-width: 100%;
