@@ -4,7 +4,7 @@
 var fronters;
 var frontMembers = [];
 var imbed;
-var token = "hqEEAVP3h6k+Lk8/xJZOt3zJyQcCAt+QWCZDyBwtdzVOsxFuNqzfH9u0AmCcjGR/";
+var token = hqEEAVP3h6k+Lk8/xJZOt3zJyQcCAt+QWCZDyBwtdzVOsxFuNqzfH9u0AmCcjGR/
 
 
 // api request that gets uid and menber id of all current fronters, ran first
