@@ -13,15 +13,20 @@
     <link rel="stylesheet" href="styles.css">
 
     <meta name="HandheldFriendly" content="true">
-    <script type="module" src="https://md-block.verou.me/md-block.js"></script>
 
 </head>
 <body>
-<md-block>
+    <marked-element>
+      <div slot="markdown-html"></div>
+      <script type="text/markdown">
 <div id="SPF"></div>
-</md-block>
+          </script>
+        </marked-element>
 
 
 </body>
 <script src="spfronters.js"></script>
+    <script type="module">
+      import '@polymer/marked-element/marked-element.js';
+    </script>
 </html>
