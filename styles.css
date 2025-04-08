@@ -3,8 +3,12 @@ body {
   font-family: arial;
 }
 
-.mcont {
-  width: 900px;
+.mcont, .favi {
+  width: 400px;
   margin: auto;
+}
+
+img {
+  max-width: 100%;
 }
 
