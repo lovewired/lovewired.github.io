@@ -13,7 +13,8 @@ body {
 .fpro {margin-bottom: 10px; color: grey;}
 .mcont:nth-of-type(1) {visibility: hidden;overflow: hidden; width:1px!important;}
 
-.flag {clear: both; width: 35%;}
+.flag-div {margin-bottom: 5px; clear:both;}
+.flag {width: 35%; margin-left: 10px; margin-bottom: 10px;}
 .left {float: left;}
 .right {float: right;}
 img {
