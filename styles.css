@@ -2,6 +2,7 @@ body {
   text-align: center;
   font-family: arial;
   margin: auto;
+  width: 600px;
 }
 
 summary {background: black; width: 100%; color: white; font-family: monospace; border-left: 6px white double; border-right: 6px white double; padding: 2px;}
@@ -20,10 +21,11 @@ summary {background: black; width: 100%; color: white; font-family: monospace; b
 
 .flag-div {margin-top: 20px; clear:both; text-align: justify;
   line-height: 200px;
-  line-height: 1.5;
+  line-height: 1.4;
   display: inline-block;
-  vertical-align: middle;}
-.flag {width: 35%; margin-left: 15px; margin-right: 15px; margin-bottom: 10px;}
+  vertical-align: middle;
+  font-size: 0.8em;}
+.flag {width: 25%; margin-left: 15px; margin-right: 15px; margin-bottom: 10px;}
 .left {float: left;}
 .right {float: right;}
 img {
