@@ -4,7 +4,7 @@ body {
   margin: auto;
 }
 
-h3 {background: black; width: 100%; color: white; font-family: monospace; border: 6px white double; padding: 2px;}
+summary {background: black; width: 100%; color: white; font-family: monospace; border-left: 6px white double; border-right: 6px white double; padding: 2px;}
 
 #SPF {margin: auto;}
 
